@@ -7,6 +7,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Example](#example)
 - [Repository Link](#repository-link)
 - [Video Application](#video-application)
 
@@ -74,9 +75,15 @@ Follow the prompts to generate your custom SVG logo.
 - Supports color keywords and hexadecimal color values.
 - Provides a link to a walkthrough video demonstrating functionality
 
+## Example
+The following image demonstrates the application functionality:
+
+![Example SVG Logo](./examples/logo.svg)
+
+This is an example of a generated SVG file.
 
 ## Repository Link
 [SVG Logo Maker Repository](https://github.com/iKeyToLife/SVG-Logo-Maker)
 
 ## Video Application
-[SVG Logo Maker video]()
+[SVG Logo Maker video](https://app.screencastify.com/v3/watch/KQtYrK6THAB2tdnaJ1fm)
