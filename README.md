@@ -86,4 +86,4 @@ This is an example of a generated SVG file.
 [SVG Logo Maker Repository](https://github.com/iKeyToLife/SVG-Logo-Maker)
 
 ## Video Application
-[SVG Logo Maker video](https://app.screencastify.com/v3/watch/KQtYrK6THAB2tdnaJ1fm)
+[SVG Logo Maker video](https://watch.screencastify.com/v/YCtAgJAMohmGm9KVDM3t)
